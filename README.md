@@ -2,7 +2,7 @@
 A curated list of useful websites: free tools, AI generators, simulators and hidden gems most people have never heard of
 
 [![Get the PDF](https://img.shields.io/badge/Get_the_full_PDF-206_websites-fbbf24?style=for-the-badge)](https://wikanopi.gumroad.com/l/best-websites-list)
-[![Website](https://img.shields.io/badge/Website-live-0b1020?style=for-the-badge)](https://useful-websites.netlify.app)
+[![Website](https://img.shields.io/badge/Website-live-0b1020?style=for-the-badge)](https://statuesque-duckanoo-0fd3d0.netlify.app/)
 
 > A curated list of useful websites: free tools, AI generators, simulators and hidden gems most people have never heard of.
 
@@ -34,7 +34,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [Napkin AI](https://napkin.ai/) `AI`
 
-<a href="https://napkin.ai/"><img src="site/img/napkin-ai.webp" alt="Napkin AI screenshot" width="480"></a>
+<a href="https://napkin.ai/"></a>
 
 **Turn plain text into polished visuals instantly.** Paste a paragraph and watch it become diagrams, flowcharts, infographics and concept visuals in seconds. Napkin AI lets you tweak both the design and the wording, then export as PNG or SVG. It is a fast way to make presentations, blog posts and social content far more engaging without opening a design tool.
 
@@ -48,7 +48,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [Remove.photos](https://remove.photos/) `no sign-up` `AI`
 
-<a href="https://remove.photos/"><img src="site/img/remove-photos.webp" alt="Remove.photos screenshot" width="480"></a>
+<a href="https://remove.photos/"></a>
 
 **AI photo editing tools in one place.** Clean up and enhance images without learning Photoshop. Remove.photos offers AI-powered background removal, object erasing, sky replacement, background blur and image upscaling, plus conversion to common formats. Everything runs in the browser, so product shots and profile pictures can be polished in seconds. No design experience is required.
 
@@ -62,7 +62,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [Sketchfab](https://sketchfab.com/)
 
-<a href="https://sketchfab.com/"><img src="site/img/sketchfab.webp" alt="Sketchfab screenshot" width="480"></a>
+<a href="https://sketchfab.com/"></a>
 
 **Discover and download millions of 3D models.** Sketchfab is one of the world's largest platforms for publishing and discovering 3D content. Browse highly detailed models of cars, furniture, electronics, characters and more, and inspect them in an interactive viewer or VR. Many models are free to download, making it a go-to resource for game developers, animators and 3D artists.
 
@@ -76,7 +76,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [IKEA Home Planner](https://www.ikea.com/us/en/planners/) `no sign-up`
 
-<a href="https://www.ikea.com/us/en/planners/"><img src="site/img/ikea-home-planner.webp" alt="IKEA Home Planner screenshot" width="480"></a>
+<a href="https://www.ikea.com/us/en/planners/"></a>
 
 **Plan your room in 3D with IKEA furniture.** Design your space with real IKEA products using the retailer's free online planners. Set your room's shape and size, add doors and windows, choose wall colors and flooring, then drag in furniture from the catalog. Switch viewing angles to see the result from any perspective before you buy.
 
@@ -90,7 +90,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [PhET Simulations](https://phet.colorado.edu/) `no sign-up`
 
-<a href="https://phet.colorado.edu/"><img src="site/img/phet-simulations.webp" alt="PhET Simulations screenshot" width="480"></a>
+<a href="https://phet.colorado.edu/"></a>
 
 **Free interactive science and math simulations.** Developed at the University of Colorado Boulder, PhET offers a vast library of research-based simulations covering physics, chemistry, biology, earth science and math. Adjust parameters, run experiments and observe results in real time, all without a lab. Teachers worldwide rely on it to make abstract concepts visual and intuitive.
 
@@ -102,7 +102,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [Wokwi](https://wokwi.com/)
 
-<a href="https://wokwi.com/"><img src="site/img/wokwi.webp" alt="Wokwi screenshot" width="480"></a>
+<a href="https://wokwi.com/"></a>
 
 **Simulate Arduino and ESP32 projects online.** Build and test electronics projects without touching real hardware. Pick a board such as Arduino, ESP32 or Raspberry Pi Pico, add sensors, LEDs and displays, wire everything up and hit simulate to see your code run. A large collection of reference projects makes it easy to learn by example or jump-start your own build.
 
@@ -116,7 +116,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [Exercism](https://exercism.org/) `no sign-up`
 
-<a href="https://exercism.org/"><img src="site/img/exercism.webp" alt="Exercism screenshot" width="480"></a>
+<a href="https://exercism.org/"></a>
 
 **Master dozens of programming languages for free.** Exercism offers structured learning tracks for a wide range of programming languages, including Python, JavaScript, Rust and Go. Work through coding exercises from beginner to advanced, and get optional feedback from volunteer mentors. Its practice-first approach builds real fluency rather than just theoretical knowledge. Everything is free and open source.
 
@@ -130,7 +130,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [iFixit](https://ifixit.com/) `no sign-up`
 
-<a href="https://ifixit.com/"><img src="site/img/ifixit.webp" alt="iFixit screenshot" width="480"></a>
+<a href="https://ifixit.com/"></a>
 
 **Fix almost any device yourself, step by step.** Skip the repair shop and bring broken gadgets back to life. iFixit hosts thousands of free, photo-illustrated repair guides for laptops, phones, game controllers, keyboards and more. Each guide lists the exact tools and parts required, then walks you through every screw and connector so even first-timers can finish the job.
 
@@ -144,7 +144,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [MuscleWiki](https://musclewiki.com/) `no sign-up`
 
-<a href="https://musclewiki.com/"><img src="site/img/musclewiki.webp" alt="MuscleWiki screenshot" width="480"></a>
+<a href="https://musclewiki.com/"></a>
 
 **Click a muscle, get the exercises to train it.** Tap any muscle on an interactive body map and MuscleWiki shows the exercises that target it, complete with video demonstrations. Filter by the equipment you actually have, from bodyweight to dumbbells and machines, and build a focused workout plan in seconds. Great for learning proper form and training smarter.
 
@@ -156,7 +156,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [TasteAtlas](https://tasteatlas.com/) `no sign-up`
 
-<a href="https://tasteatlas.com/"><img src="site/img/tasteatlas.webp" alt="TasteAtlas screenshot" width="480"></a>
+<a href="https://tasteatlas.com/"></a>
 
 **An interactive world map of traditional foods.** Explore authentic dishes from every corner of the globe on an interactive food map. Choose a country like Italy to discover its most beloved local dishes, read about their origins, find recipes and get recommendations for restaurants that serve them best. A must-have for food lovers and culinary travelers.
 
@@ -170,7 +170,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [Vocal Remover](https://vocalremover.org/) `AI`
 
-<a href="https://vocalremover.org/"><img src="site/img/vocal-remover.webp" alt="Vocal Remover screenshot" width="480"></a>
+<a href="https://vocalremover.org/"></a>
 
 **Separate vocals from music with AI.** Upload an MP3 and this AI-powered tool splits the track into separate vocal and instrumental stems. Create karaoke versions, isolate a cappella vocals or practice along with the backing music. The site also includes handy extras like pitch and tempo changers, a cutter and a joiner.
 
@@ -184,7 +184,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) `no sign-up`
 
-<a href="https://azgaar.github.io/Fantasy-Map-Generator/"><img src="site/img/azgaar-s-fantasy-map-generator.webp" alt="Azgaar's Fantasy Map Generator screenshot" width="480"></a>
+<a href="https://azgaar.github.io/Fantasy-Map-Generator/"></a>
 
 **Generate detailed fantasy worlds for your campaigns.** Build entire fantasy continents with one click, complete with nations, cultures, religions, rivers and trade routes. Azgaar's generator gives you deep control over every layer, and you can zoom into any city to edit it or open a detailed town map. It is a favorite among D&D game masters and worldbuilding writers.
 
@@ -198,7 +198,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [GeoFS](https://geo-fs.com/) `no sign-up`
 
-<a href="https://geo-fs.com/"><img src="site/img/geofs.webp" alt="GeoFS screenshot" width="480"></a>
+<a href="https://geo-fs.com/"></a>
 
 **Fly anywhere in the world from your browser.** Pick your favorite aircraft and take to the skies in this browser-based flight simulator built on real satellite imagery. Control the plane with keyboard or mouse, choose any airport or location on Earth and fly wherever you like. No downloads or login required, making it an easy entry point into flight simulation.
 
@@ -212,7 +212,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [Slow Roads](https://slowroads.io/) `no sign-up`
 
-<a href="https://slowroads.io/"><img src="site/img/slow-roads.webp" alt="Slow Roads screenshot" width="480"></a>
+<a href="https://slowroads.io/"></a>
 
 **An endless, relaxing driving game in your browser.** Hit the road on a procedurally generated journey that never ends. Slow Roads lets you cruise through changing landscapes, switch seasons to winter or autumn, and adjust the time of day for sunrise or night drives. There are no scores or goals, just a calming, beautifully rendered drive that runs directly in your browser.
 
@@ -226,7 +226,7 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ### [Photoskop](https://photoskop.com/)
 
-<a href="https://photoskop.com/"><img src="site/img/photoskop.webp" alt="Photoskop screenshot" width="480"></a>
+<a href="https://photoskop.com/"></a>
 
 **Interactive lessons on photography fundamentals.** Photoskop teaches photography through interactive lessons you can see and feel. Adjust aperture, shutter speed, focal length and white balance to watch how each setting changes an image. Lessons also reveal the equipment used and how the lighting was arranged, helping you understand the thinking behind great shots.
 
@@ -262,7 +262,7 @@ The complete guide has **206 websites** across **17 categories**:
 
 Every entry comes with a homepage screenshot, what it does, key features, who it's best for, and a "Try this" example. 131 of the sites need no sign-up at all.
 
-### 👉 [Get all 206 websites ($13.9)](https://wikanopi.gumroad.com/l/best-websites-list)
+### 👉 [Get all 206 websites](https://wikanopi.gumroad.com/l/best-websites-list)
 
 🌐 Website: [https://useful-websites.netlify.app](https://statuesque-duckanoo-0fd3d0.netlify.app/)
 
