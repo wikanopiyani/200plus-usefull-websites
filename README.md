@@ -13,6 +13,8 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 
 ⭐ **Star this repo** if you find it useful. It helps others discover these tools too!
 
+### 👉 [Get all 206 websites](https://wikanopi.gumroad.com/l/best-websites-list)
+
 ## Contents
 
 - [AI Builders & Generators](#ai-builders--generators)
