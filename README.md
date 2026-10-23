@@ -8,7 +8,7 @@ A curated list of useful websites: free tools, AI generators, simulators and hid
 
 [![206 Most Useful Websites](https://public-files.gumroad.com/q1v8t5h8kl73wyx2648mpplau4rq)](https://statuesque-duckanoo-0fd3d0.netlify.app/)
 
-This repo has **15 free picks** from the guide. The full **206-website PDF** (17 categories, 130 pages, a screenshot and a clear breakdown of every site) is available here:
+This repo has **16 free picks** from the guide. The full **206-website PDF** (17 categories, 130 pages, a screenshot and a clear breakdown of every site) is available here:
 **[Get the full guide on Gumroad](https://wikanopi.gumroad.com/l/best-websites-list)**
 
 ⭐ **Star this repo** if you find it useful. It helps others discover these tools too!
@@ -87,6 +87,18 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 - View from any 3D angle
 
 💡 **Try this:** Use it to test whether a new IKEA sofa and shelving fit your living room.
+
+### [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) `no sign-up`
+
+<a href="https://roofcostdata.com/roof-replacement-cost-calculator"></a>
+
+**Estimate a U.S. roof replacement budget from project details.** Roof Cost Data lets homeowners adjust roof size, material, pitch, tear-off needs and location to build a planning estimate before requesting local quotes.
+
+- Free roof replacement cost calculator
+- Location and material inputs
+- No account required
+
+💡 **Try this:** Compare asphalt-shingle and metal-roof scenarios for the same home before speaking with contractors.
 
 ## Science & Engineering
 
