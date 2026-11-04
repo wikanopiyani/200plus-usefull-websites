@@ -8,7 +8,7 @@ A curated list of useful websites: free tools, AI generators, simulators and hid
 
 [![206 Most Useful Websites](https://public-files.gumroad.com/q1v8t5h8kl73wyx2648mpplau4rq)](https://statuesque-duckanoo-0fd3d0.netlify.app/)
 
-This repo has **15 free picks** from the guide. The full **206-website PDF** (17 categories, 130 pages, a screenshot and a clear breakdown of every site) is available here:
+This repo has **16 free picks**. The full **206-website PDF** (17 categories, 130 pages, a screenshot and a clear breakdown of every site) is available here:
 **[Get the full guide on Gumroad](https://wikanopi.gumroad.com/l/best-websites-list)**
 
 ⭐ **Star this repo** if you find it useful. It helps others discover these tools too!
@@ -209,6 +209,16 @@ This repo has **15 free picks** from the guide. The full **206-website PDF** (17
 - Keyboard or mouse controls
 
 💡 **Try this:** Fly a small plane over your hometown to see it from above.
+
+### [Bucketlist.nl Netherlands checklist](https://bucketlist.nl/bucketlist-nederland/checklist) `Dutch` `no sign-up`
+
+**Choose experience ideas for the Netherlands.** A free Dutch-language checklist with search, browser-local selections and printing. Linked external activity bookings may be paid.
+
+- Search and filter Netherlands experience ideas
+- Keep checklist selections in this browser
+- Print the list for your own plans
+
+💡 **Try this:** Choose a few ideas for your next free day in the Netherlands and print your checklist.
 
 ## Games & Fun
 
